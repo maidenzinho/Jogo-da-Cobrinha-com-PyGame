@@ -2,4 +2,4 @@
 ### Instale PyGame, instale:
 ```
 pip install pygame
-``
+```
